@@ -32,5 +32,8 @@
 	 alert(msg);
  }
 
+ $('li').on('click',function(){
+	 alert('click');
+ })
 </script>
 </html>
